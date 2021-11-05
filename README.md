@@ -12,7 +12,8 @@
 
 This is a Capstone Project for Udacity's Machine learning engeneering Nanodegree.
 
-Project Overview
+- Project Overview
+
 Booking an entire apartment, home, etc. during a trip is becoming increasingly common over time. Rather than book a room in a hotel, people have preferred entire places,
 whether by privacy or saving some money. In such context, Airbnb is nowadays one of the most important service for booking apartments, home, or any kind of place for 
 staying during a trip or even a place to rent for living. 
