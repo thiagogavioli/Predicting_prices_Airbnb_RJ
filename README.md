@@ -1,4 +1,4 @@
-# Predicting_prices_Airbnb_RJ
+# Predicting prices for Airbnb in Rio de Janeiro
 
 
 ## Table of contents
